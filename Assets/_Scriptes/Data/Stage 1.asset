@@ -16,15 +16,15 @@ MonoBehaviour:
   logo: {fileID: 21300000, guid: de4a2f0ba9622b841b5e0939f1e3f7cd, type: 3}
   answer: ADIDAS
   alphabets:
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - {fileID: 21300000, guid: 8e9f50a07410e24478730aad159ebee3, type: 3}
+  - {fileID: 21300000, guid: d67c1e45bc54e4849acfb74ddad35287, type: 3}
+  - {fileID: 21300000, guid: a40841399e9026b4ab45298e730615ec, type: 3}
+  - {fileID: 21300000, guid: d67c1e45bc54e4849acfb74ddad35287, type: 3}
+  - {fileID: 21300000, guid: 8e9f50a07410e24478730aad159ebee3, type: 3}
+  - {fileID: 21300000, guid: 214f065c89951f6439b3b4cb514cadc4, type: 3}
+  - {fileID: 21300000, guid: eedc1b2c51363304e8fef00475d5b6a2, type: 3}
+  - {fileID: 21300000, guid: eda498849152af946afa8a0d4e73771b, type: 3}
+  - {fileID: 21300000, guid: 71567b97a41ef2948bf260bbd930c968, type: 3}
+  - {fileID: 21300000, guid: 2ecc098d4733951458d5f0b6ca1b8392, type: 3}
+  - {fileID: 21300000, guid: be0438e79f6c46f4596dc1d4667d71a2, type: 3}
+  - {fileID: 21300000, guid: 9146b78d4845b794c9b167c7ca6dc099, type: 3}

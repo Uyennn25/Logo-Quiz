@@ -8,5 +8,5 @@ public class StageData : ScriptableObject
     public int blankNumber;
     public Sprite logo;
     public string answer;
-    public List<string> alphabets; 
+    public List<Sprite> alphabets; 
 }
