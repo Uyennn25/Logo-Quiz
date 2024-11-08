@@ -7,61 +7,11 @@
     <list default="true" id="d23d27fb-f26b-4c7f-bc3e-3253497367b2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Logo Quiz/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Logo Quiz/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/A.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/A.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/B.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/B.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/C.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/C.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/D.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/D.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/E.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/E.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/F.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/F.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/G.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/G.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/H.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/H.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/I.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/I.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/J.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/J.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/K.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/K.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/L.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/L.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/M.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/M.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/N.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/N.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/O.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/O.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/P.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/P.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/Q.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/Q.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/R.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/R.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/S.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/S.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/T.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/T.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/U.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/U.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/V.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/V.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/W.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/W.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/X.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/X.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/Y.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/Y.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/Z.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Logo Quiz/Alphabet Sprites/Blue/Z.png.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scriptes/Data/Stage 1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scriptes/Data/Stage 1.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/_Scriptes/Data/StageData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scriptes/Data/StageData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Data/DataKey.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tools/Data/DataKey.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Tools/Observer/EventID.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Tools/Observer/EventID.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scriptes/Stage/Anphabet.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scriptes/Stage/Anphabet.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scriptes/Stage/Blank.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scriptes/Stage/Blank.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/_Scriptes/Stage/StageManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/_Scriptes/Stage/StageManager.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +22,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/_Scriptes/Data/GameData.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/_Scriptes/Stage/Blank.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scriptes/Stage/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scriptes/UI/ButtonScaler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scriptes/UI/ChooseStageManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Scriptes/UI/Winpanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.mathematics@1.1.0/Unity.Mathematics/math_unity_conversion.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo">{
@@ -151,8 +107,21 @@
       <option name="presentableId" value="Default" />
       <updated>1729180771201</updated>
       <workItem from="1729180776315" duration="5035000" />
-      <workItem from="1729675835119" duration="3897000" />
+      <workItem from="1729675835119" duration="4507000" />
+      <workItem from="1729939405904" duration="76000" />
+      <workItem from="1730287846371" duration="1835000" />
+      <workItem from="1730908187890" duration="2667000" />
+      <workItem from="1731079934188" duration="3327000" />
     </task>
+    <task id="LOCAL-00001" summary="create blanks + anphabets">
+      <option name="closed" value="true" />
+      <created>1729680281012</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729680281012</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,5 +143,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Screen 1" />
+    <MESSAGE value="create blanks + anphabets" />
+    <option name="LAST_COMMIT_MESSAGE" value="create blanks + anphabets" />
   </component>
 </project>
